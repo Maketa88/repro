@@ -2,28 +2,28 @@ import React from "react";
 import Player from "@madzadev/audio-player";
 import amarilla from "../assets/Music/Amarilla Se Pone.mp3";
 import amor from "../assets/Music/Amor De Primavera.mp3";
-import conmigo from "../assets/Music/Aunque No Sea Conmigo.MP3";
+import conmigo from "../assets/Music/Aunque No Sea Conmigo.mp3";
 import careta from "../assets/Music/Caretas.mp3";
 import corre from "../assets/Music/Corre Corre.mp3";
-import parara from "../assets/Music/Cuando Parara La Lluvia En Mi Corazon.MP3";
+import parara from "../assets/Music/Cuando Parara La Lluvia En Mi Corazon.mp3";
 import desde from "../assets/Music/Desde Lejos.mp3";
 import dueles from "../assets/Music/Dueles.mp3";
-import ecos from "../assets/Music/Ecos De Amor.MP3";
+import ecos from "../assets/Music/Ecos De Amor.mp3";
 import ella from "../assets/Music/Ella Es.mp3";
 import mujer from "../assets/Music/Esa Mujer.mp3";
-import escombro from "../assets/Music/Escombros.MP3";
+import escombro from "../assets/Music/Escombros.mp3";
 import frente from "../assets/Music/Frente A Frente.mp3";
 import queria from "../assets/Music/No Queria Engañarte.mp3";
-import noviembre from "../assets/Music/Noviembre Sin Ti.MP3";
+import noviembre from "../assets/Music/Noviembre Sin Ti.mp3";
 import pagina from "../assets/Music/Pagina De Amor.mp3";
 import amo from "../assets/Music/Porque Te Amo.mp3";
-import enamorar from "../assets/Music/Que Locura Enamorarme De Ti.MP3";
+import enamorar from "../assets/Music/Que Locura Enamorarme De Ti.mp3";
 import quedarme from "../assets/Music/Quiero Quedarme En Ti.mp3";
 import fuiste from "../assets/Music/Te Fuiste De Aqui.mp3";
-import amante from "../assets/Music/Un Amante Como Yo.MP3";
+import amante from "../assets/Music/Un Amante Como Yo.mp3";
 import cura from "../assets/Music/Uno Se Cura.mp3";
 import devorar from "../assets/Music/Ven Devorame Otra Vez.mp3";
-import quedas from "../assets/Music/Y Si Te Quedas Que.MP3";
+import quedas from "../assets/Music/Y Si Te Quedas Que.mp3";
 
 const colors = {
   tagsBackground: "#51E5FF",
