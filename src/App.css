@@ -23,7 +23,7 @@
 }
  */
 .logoreact{
-  width: 14vw; /* Ajusta el ancho de la imagen al 50% del ancho de la ventana */
+  width: 18vw; /* Ajusta el ancho de la imagen al 50% del ancho de la ventana */
     
    /* Limita el ancho máximo de la imagen */
 /*   animation: logo-spin 20s linear infinite; /* Animación de rotación */ 
@@ -34,7 +34,7 @@
 }
 .fondo{
   background-color: #51E5FF;
-  padding: 20px;
+  padding: 100px;
   border-radius: 10px;
 }
 
